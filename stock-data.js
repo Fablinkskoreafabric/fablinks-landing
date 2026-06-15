@@ -16,7 +16,7 @@
 
 const STOCK_ITEMS = [
   {
-    image: "",
+    image: "75D-SATIN-CHARMEUSE.webp",
     name: "75D Satin Charmeuse",
     width: '58/60"',
     content: "100% Polyester",
@@ -25,7 +25,7 @@ const STOCK_ITEMS = [
     tag: "running"
   },
   {
-    image: "",
+    image: "CHARMEUSE-PE.webp",
     name: "50D Charmeuse",
     width: '58/60"',
     content: "100% Polyester",
@@ -34,7 +34,7 @@ const STOCK_ITEMS = [
     tag: "running"
   },
   {
-    image: "",
+    image: "STRETCH-MIKADO-KR.webp",
     name: "Stretch Mikado",
     width: '58/60"',
     content: "Poly / Spandex blend",
