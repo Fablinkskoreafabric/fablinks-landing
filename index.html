@@ -567,7 +567,7 @@
         ? '<span class="badge running">Running</span>'
         : '<span class="badge">Limited</span>';
       const img = it.image
-        ? `<img src="images/${it.image}" alt="${it.name} — Korean ${it.tag} fabric" loading="lazy" width="400" height="300">`
+        ? `<img src="${it.image}" alt="${it.name} — Korean ${it.tag} fabric" loading="lazy" width="400" height="300">`
         : `<span class="ph">Image coming soon</span>`;
       const note = it.note ? `<div class="note">${it.note}</div>` : '';
       const weightRow = it.weight ? `<b>Weight</b> ${it.weight}<br>` : '';
